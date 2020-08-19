@@ -1,6 +1,6 @@
 # GameProgrammingMidtermProject
 
-![](gameplay.png)
+![](gameplay.gif)
 
 # Bu proje 95 puan almıştır.
 # To Download executable project link is below 
